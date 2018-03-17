@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Fjord+One");
+::selection {
+  color: #fff;
+  background: #28aa8d;
+  text-shadow: none;
+}
+
 body,
 html {
   padding: 0;
@@ -21,12 +27,12 @@ h1 {
   margin: -2em auto -1em;
 }
 
-.post-header {
+.hero {
   background: #22bda0;
   border-bottom: 5px solid #607d8b;
   overflow: hidden;
 }
-.post-header .hero-image {
+.hero__image {
   position: absolute;
   bottom: -20%;
   left: 50%;
@@ -35,7 +41,7 @@ h1 {
   width: 56.25em;
 }
 
-.hero-image-container {
+.hero__container {
   -webkit-animation: hero-fade-in 1s 0.5s linear forwards;
   animation: hero-fade-in 1s 0.5s linear forwards;
   opacity: 0;
@@ -60,7 +66,7 @@ h1 {
     opacity: 1;
   }
 }
-.window-background {
+.hero__bg {
   -webkit-animation: background-color 10s cubic-bezier(0.81, -0.46, 0.19, 1.33)
     infinite;
   animation: background-color 10s cubic-bezier(0.81, -0.46, 0.19, 1.33) infinite;
@@ -70,7 +76,7 @@ h1 {
   top: 0;
 }
 
-.video {
+.hero__ide {
   position: absolute;
   bottom: 8.66em;
   left: 50%;
@@ -79,7 +85,7 @@ h1 {
   z-index: 2;
 }
 
-.screen-container {
+.hero__screen {
   -webkit-animation: move-emails 10s infinite ease-out;
   animation: move-emails 10s infinite ease-out;
   position: absolute;
@@ -93,7 +99,7 @@ h1 {
   transform: translate(-16.4%, -10%);
 }
 
-.notification {
+.hero__notification {
   -webkit-animation: move-notification 10s infinite
     cubic-bezier(0.81, -0.46, 0.19, 1.33);
   animation: move-notification 10s infinite
@@ -107,7 +113,7 @@ h1 {
   background-size: 100%;
 }
 
-.moon {
+.hero__moon {
   -webkit-animation: moon 10s infinite linear;
   animation: moon 10s infinite linear;
   position: absolute;
@@ -336,7 +342,7 @@ h1 {
     animation-timing-function: linear;
   }
 }
-@media (max-width: 550px) {
+/* @media (max-width: 550px) {
   .demo-container.clocks.single .clock,
   .badge {
     font-size: 12px;
@@ -347,4 +353,4 @@ h1 {
   .badge {
     font-size: 10px;
   }
-}
+} */
