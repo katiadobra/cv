@@ -12,12 +12,29 @@ HTML, CSS, JS (ES5, ES6), Less, SCSS, Gulp, Webpack, AJAX, React JS, SVG, ARIA, 
 
 ##### Methodologies / Practices:
 
-Progressive Enhancement, BEM, OOP, Agile/Scrum
-
+Progressive Enhancement, BEM, OOP, Agile/Scrum,Continuous Integration, Code Review, Branch-per-task.
 
 ---
 
 ### EXPERIENCE
+
+<img src="./asserts/acceptic.png" width="200">
+
+#### Front-End Developer (Apr 2018 - Sep 2018)
+Acceptic - dedicated software development teams (from 2019: Yael Acceptic - Nearshore Outstaffing be Yael Group).
+
+My direct Responsibilities was:
+- Worked in an great development team from Israel.
+- Implementing web services components.
+- Dealing with the layout of complex designs.
+- Developing new features.
+- Supporting the existing code and troubleshooting.
+- RESTful services + JSON;
+- using ReactJS, Redux, and following tools like Sketch, Git, Swagger
+
+
+
+:octocat:
 
 <img src="./asserts/ms.png" width="200">
 
