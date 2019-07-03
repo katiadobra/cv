@@ -66,3 +66,13 @@ My direct Responsibilities was:
 - Master of Applied Linguistics (2010 - 2011) - Donetsk National University
 - Bachelor in Philology (2006 - 2010) - Donetsk National University
 
+---
+
+### CERTIFICATIONS
+
+- **German course B1**, VHS Berlin (2019)
+- **Goethe-Zertifikat A1 Start Deutsch 1 (German)**, Goethe Institut Kiew (2016)
+- **Java Script advanced course**, HTML Academy (2016)
+- **Java Script basic course**, HTML Academy (2015)
+- **HTML & CSS advanced course**, HTML Academy (2015)
+- **Creating web interfaces with HTML & CSS**, HTML Academy (2014)
