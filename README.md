@@ -80,7 +80,5 @@ telc GmbH - The European Language Certificates (Sep 2019)
 - **Creating web interfaces with HTML & CSS**, HTML Academy (2014)
 - **Goethe-Zertifikat A1 Start Deutsch 1 (German)**, Goethe Institut Kiew (2016)
 
-<img src="./asserts/bamf.svg.png" width="80" style="display: inline-block; margin: 15px">
-<img src="./asserts/telc.svg" width="80" style="margin: 10px; display: inline-block;">
-<img src="./asserts/GoetheInstitu.png" width="100" style="margin: 10px; display: inline-block;">
-![image of html academy](https://github.com/katiadobra/cv/blob/gh-pages/asserts/htmla.png)
+<img src="./asserts/cert.png" width="320" >
+
