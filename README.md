@@ -70,9 +70,12 @@ My direct Responsibilities was:
 
 ### CERTIFICATIONS
 
-- **German course B1**, VHS Berlin (2019)
-- **Goethe-Zertifikat A1 Start Deutsch 1 (German)**, Goethe Institut Kiew (2016)
+- **German course Level C1**, VHS Berlin (2020)
+- **Zertifikat Integrationskurs**, Bundesamt für Migration und Flüchtlinge (Nov 2019)
+- **Zertificat "Deutsch-Test für Zuwanderer" (DTZ)**,
+telc GmbH - The European Language Certificates (Sep 2019)
 - **Java Script advanced course**, HTML Academy (2016)
 - **Java Script basic course**, HTML Academy (2015)
 - **HTML & CSS advanced course**, HTML Academy (2015)
 - **Creating web interfaces with HTML & CSS**, HTML Academy (2014)
+- **Goethe-Zertifikat A1 Start Deutsch 1 (German)**, Goethe Institut Kiew (2016)
