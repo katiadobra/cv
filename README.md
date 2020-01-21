@@ -63,8 +63,8 @@ My direct Responsibilities was:
 ---
 
 ### EDUCATION
-- Master of Applied Linguistics (2010 - 2011) - Donetsk National University
-- Bachelor in Philology (2006 - 2010) - Donetsk National University
+- Master of Applied Linguistics - Donetsk National University
+- Bachelor in Philology - Donetsk National University
 
 ---
 
