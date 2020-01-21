@@ -2,7 +2,7 @@
 
 I am a developer who enjoys writing Javascript and creating websites, using up-to-date technologies.
 
-My goal is to become awesome at writing simple, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
+My goal is to become awesome at writing simple, scalable and readable code - through practice, learning and applying different programming paradigms.
 
 ### SKILLS
 
@@ -23,7 +23,9 @@ Progressive Enhancement, BEM, OOP, Agile/Scrum,Continuous Integration, Code Revi
 #### Front-End Developer (Apr 2018 - Sep 2018)
 Acceptic - dedicated software development teams (from 2019: Yael Acceptic - Nearshore Outstaffing be Yael Group).
 
-My direct Responsibilities was:
+Project "Sigmento" |  Product Information as a Service
+
+My direct Responsibilities were:
 - Worked in an great development team from Israel.
 - Implementing web services components.
 - Dealing with the layout of complex designs.
@@ -39,26 +41,38 @@ My direct Responsibilities was:
 <img src="./asserts/ms.png" width="200">
 
 #### Front-End Developer (June 2015 - Sep 2017)
-- Worked in an amazing development team with a wide range of projects using up-to-date technologies. Based on our extensive experience, we developed unique, individual eLearning products, booking portals, event management projects.
-- Redesigned fashion educational platform on React.
-- Maintained existing projects.
+- worked in an amazing development team with a wide range of projects using up-to-date technologies
+- developed unique, individual eLearning products, booking portals, event management projects
+- redesigned fashion educational platform on React
+- maintained existing projects
+
+Projects:
+- "Stylevisit" |  Salon Management ♥
+- "ASK EDUCATION eACADEMY" | Education Platform for Hairdressers ♥
+- "tm-drive Navigator" |  admin react app ♥
+- etc.
 
 :octocat:
 
 <img src="./asserts/sr.jpg" width="200">
 
-#### Front-End Developer (Dec 2015 - Sep 2016) 8-Month Contract 
-- I've worked in eCommerce agency with more than 15 years of experience in the online business.
-- With great team maintained existing projects for fashion and lifestyle brands.
-- Redesigned online shops using OXID eShop platform and template language Smarty.
+#### Front-End Developer (Dec 2015 - Sep 2016) 8-Month Contract
+
+- worked for an eCommerce agency with more than 15 years of experience in the online business
+- maintained existing projects for fashion and lifestyle brands
+- redesigned online shops using OXID eShop platform and template language Smarty
+
+Projects:
+- "AWG Mode" |  Mode für Damen, Herren und Kinder ♥
+- "Geliebtes Zuhause" |  Online-Shop, Wohnaccessoires & Geschirr ♥
 
 :octocat:
 
 <img src="./asserts/tsn.png" width="200">
 
 #### Markup Engineer (July 2014 - May 2015)
-- I've worked in outsourcing company which provides comprehensive services in the field of web development and outstaffing for digital agencies from United States, Australia, Canada etc.
-- Created bunch of adaptive/responsive websites from scratch on strict deadlines.
+- I've worked for an outsourcing company which provides comprehensive services in the field of web development and outstaffing for digital agencies from United States, Australia, Canada etc.
+- Created bunch of adaptive/responsive websites from scratch
 
 ---
 
