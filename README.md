@@ -98,8 +98,9 @@ HTML, CSS, jQuery, WordPress, Less, SCSS, Grunt, Gulp, Bootstrap
 ### CERTIFICATIONS
 
 - **German course Level C1**, VHS Berlin (2020)
+- **Zertifikat Deutsch Europaratsstufe B2 (Council of Europe level B2)**, telc GmbH - The European Language Certificates (Feb 2020)
 - **Zertifikat Integrationskurs**, Bundesamt für Migration und Flüchtlinge (Nov 2019)
-- **Zertificat "Deutsch-Test für Zuwanderer" (DTZ)**,
+- **Zertificat "Deutsch-Test für Zuwanderer" (DTZ, (Council of Europe level B1)**,
 telc GmbH - The European Language Certificates (Sep 2019)
 - **Java Script advanced course**, HTML Academy (2016)
 - **Java Script basic course**, HTML Academy (2015)
