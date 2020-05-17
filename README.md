@@ -8,11 +8,11 @@ My goal is to become awesome at writing simple, scalable and readable code - thr
 
 I've been worked on more than 20 projects for clients, using the following technologies:
 
-HTML, CSS, JS (ES5, ES6), Less, SCSS, Gulp, Webpack, AJAX, React JS, SVG, ARIA, RESTful APIs, Bootstrap, csswizardry-grids
+HTML, CSS, JS (ES5, ES6), Less, SCSS, Gulp, Webpack, React JS, SVG, ARIA, RESTful APIs, Bootstrap
 
 ##### Methodologies / Practices:
 
-Progressive Enhancement, BEM, OOP, Agile/Scrum,Continuous Integration, Code Review, Branch-per-task.
+Progressive Enhancement, BEM, OOP, Agile/Scrum, Continuous Integration, Code Review, Branch-per-task.
 
 ---
 
@@ -25,14 +25,17 @@ Acceptic - dedicated software development teams (from 2019: Yael Acceptic - Near
 
 Project "Sigmento" |  Product Information as a Service
 
-My direct Responsibilities were:
-- Worked in an great development team from Israel.
+My direct responsibilities were:
+- Worked in a great development team from Israel.
 - Implementing web services components.
 - Dealing with the layout of complex designs.
 - Developing new features.
 - Supporting the existing code and troubleshooting.
 - RESTful services + JSON;
 - using ReactJS, Redux, and following tools like Sketch, Git, Swagger
+
+tech stack:
+HTML, CSS, JS, SCSS, ReactJS, Redux, REST
 
 
 
@@ -52,6 +55,9 @@ Projects:
 - "tm-drive Navigator" |  admin react app ♥
 - etc.
 
+tech stack:
+HTML, CSS, JS, SCSS, ReactJS
+
 :octocat:
 
 <img src="./asserts/sr.jpg" width="200">
@@ -63,16 +69,23 @@ Projects:
 - redesigned online shops using OXID eShop platform and template language Smarty
 
 Projects:
+- "JUWEL Aquarium" |  www.juwel-aquarium.de
 - "AWG Mode" |  Mode für Damen, Herren und Kinder ♥
 - "Geliebtes Zuhause" |  Online-Shop, Wohnaccessoires & Geschirr ♥
+
+tech stack:
+HTML, CSS, csswizardry-grids, Flexbox, SCSS
 
 :octocat:
 
 <img src="./asserts/tsn.png" width="200">
 
 #### Markup Engineer (July 2014 - May 2015)
-- I've worked for an outsourcing company which provides comprehensive services in the field of web development and outstaffing for digital agencies from United States, Australia, Canada etc.
+- I've worked for an outsourcing company which provides comprehensive services in the field of web development and outstaffing for digital agencies from the United States, Australia, Canada etc.
 - Created bunch of adaptive/responsive websites from scratch
+
+tech stack:
+HTML, CSS, jQuery, WordPress, Less, SCSS, Grunt, Gulp, Bootstrap
 
 ---
 
