@@ -150,6 +150,17 @@ h1 {
   font-weight: bold;
 }
 
+.info__title a,
+.info__subtitle a {
+  color: #000;
+  text-decoration: none
+}
+
+.info__title:hover a,
+.info__subtitle:hover a {
+  color: #color: #607d8b;
+}
+
 .socials {
   margin: 0 0 20px;
   padding: 0;
