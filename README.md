@@ -1,6 +1,6 @@
-# CV - Kat Rybalko
+# CV - Kateryna Rybalko
 
-I am a developer who enjoys writing Javascript and creating websites, using up-to-date technologies.
+I am a software developer who enjoys writing Javascript and creating websites, using up-to-date technologies.
 
 My goal is to become awesome at writing simple, scalable and readable code - through practice, learning and applying different programming paradigms.
 
@@ -8,7 +8,9 @@ My goal is to become awesome at writing simple, scalable and readable code - thr
 
 I've been worked on more than 20 projects for clients, using the following technologies:
 
-HTML, CSS, JS (ES5, ES6), Less, SCSS, Gulp, Webpack, React JS, SVG, ARIA, RESTful APIs, Bootstrap
+HTML, CSS, JS (ES5, ES6+), React JS, Vue JS, Less, SCSS, Webpack, Gulp, SVG, ARIA, RESTful APIs, Bootstrap, unit testing (Jest)
+
+e-commerce systems: Shopware, Oxid
 
 ##### Methodologies / Practices:
 
