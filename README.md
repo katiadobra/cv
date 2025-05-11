@@ -1,114 +1,31 @@
-# CV - Kateryna Rybalko
+# Kateryna Rybalko — Web Developer, Occasional Adult
 
-I am a software developer who enjoys writing Javascript and creating websites, using up-to-date technologies.
+Welcome to the glorious public shrine of my professional existence.
 
-My goal is to become awesome at writing simple, scalable and readable code - through practice, learning and applying different programming paradigms.
+Inside, you'll find my CV — lovingly handcrafted in HTML, because plain PDFs are for cowards.  
+It’s short, clean, and mercilessly stripped of every unnecessary detail, just like my dreams.
 
-### SKILLS
+## Why Does This Exist?
 
-I've been worked on more than 20 projects for clients, using the following technologies:
+Because recruiters still like to see \"communication skills\" and \"attention to detail,\"  
+and nothing says \"hire me\" like an obsessively polished static page.
 
-HTML, CSS, JS (ES5, ES6+), React JS, Vue JS, Less, SCSS, Webpack, Gulp, SVG, ARIA, RESTful APIs, Bootstrap, unit testing (Jest)
+Also, GitHub is free and I'm not paying for a domain name just to host a résumé. Let's be realistic.
 
-e-commerce systems: Shopware, Oxid
+## What's Inside?
 
-##### Methodologies / Practices:
+- Actual experience (no fluff about \"working in amazing teams\")
+- Actual technologies (no desperate namedropping of Bootstrap)
+- Actual sarcasm (this README is basically a skills test — if you get it, congratulations)
 
-Progressive Enhancement, BEM, OOP, Agile/Scrum, Continuous Integration, Code Review, Branch-per-task.
+## How to Use?
 
----
-
-### EXPERIENCE
-
-<img src="./asserts/acceptic.png" width="200">
-
-#### Front-End Developer (Apr 2018 - Sep 2018)
-Acceptic - dedicated software development teams (from 2019: Yael Acceptic - Nearshore Outstaffing be Yael Group).
-
-Project "Sigmento" |  Product Information as a Service
-
-My direct responsibilities were:
-- Worked in a great development team from Israel.
-- Implementing web services components.
-- Dealing with the layout of complex designs.
-- Developing new features.
-- Supporting the existing code and troubleshooting.
-- RESTful services + JSON;
-- using ReactJS, Redux, and following tools like Sketch, Git, Swagger
-
-tech stack:
-HTML, CSS, JS, SCSS, ReactJS, Redux, REST
-
-
-
-:octocat:
-
-<img src="./asserts/ms.png" width="200">
-
-#### Front-End Developer (June 2015 - Sep 2017)
-- worked in an amazing development team with a wide range of projects using up-to-date technologies
-- developed unique, individual eLearning products, booking portals, event management projects
-- redesigned fashion educational platform on React
-- maintained existing projects
-
-Projects:
-- "Stylevisit" |  Salon Management ♥
-- "ASK EDUCATION eACADEMY" | Education Platform for Hairdressers ♥
-- "tm-drive Navigator" |  admin react app ♥
-- etc.
-
-tech stack:
-HTML, CSS, JS, SCSS, ReactJS
-
-:octocat:
-
-<img src="./asserts/sr.jpg" width="200">
-
-#### Front-End Developer (Dec 2015 - Sep 2016) 8-Month Contract
-
-- worked for an eCommerce agency with more than 15 years of experience in the online business
-- maintained existing projects for fashion and lifestyle brands
-- redesigned online shops using OXID eShop platform and template language Smarty
-
-Projects:
-- "JUWEL Aquarium" |  www.juwel-aquarium.de
-- "AWG Mode" |  Mode für Damen, Herren und Kinder ♥
-- "Geliebtes Zuhause" |  Online-Shop, Wohnaccessoires & Geschirr ♥
-
-tech stack:
-HTML, CSS, csswizardry-grids, Flexbox, SCSS
-
-:octocat:
-
-<img src="./asserts/tsn.png" width="200">
-
-#### Markup Engineer (July 2014 - May 2015)
-- I've worked for an outsourcing company which provides comprehensive services in the field of web development and outstaffing for digital agencies from the United States, Australia, Canada etc.
-- Created bunch of adaptive/responsive websites from scratch
-
-tech stack:
-HTML, CSS, jQuery, WordPress, Less, SCSS, Grunt, Gulp, Bootstrap
+- Open the HTML file.  
+- Pretend to read it carefully.  
+- Email me to give me money.
 
 ---
+P.S. If you're wondering why I deleted Gulp and Bootstrap from my CV — it's because I love myself.
 
-### EDUCATION
-- Master of Applied Linguistics - Donetsk National University
-- Bachelor in Philology - Donetsk National University
 
----
-
-### CERTIFICATIONS
-
-- **German course Level C1**, VHS Berlin (2020)
-- **Zertifikat Deutsch Europaratsstufe B2 (Council of Europe level B2)**, telc GmbH - The European Language Certificates (Feb 2020)
-- **Zertifikat Integrationskurs**, Bundesamt für Migration und Flüchtlinge (Nov 2019)
-- **Zertificat "Deutsch-Test für Zuwanderer" (DTZ, (Council of Europe level B1)**,
-telc GmbH - The European Language Certificates (Sep 2019)
-- **Java Script advanced course**, HTML Academy (2016)
-- **Java Script basic course**, HTML Academy (2015)
-- **HTML & CSS advanced course**, HTML Academy (2015)
-- **Creating web interfaces with HTML & CSS**, HTML Academy (2014)
-- **Goethe-Zertifikat A1 Start Deutsch 1 (German)**, Goethe Institut Kiew (2016)
-
-<img src="./asserts/cert.png" width="320" >
-
+_Please find my detailed experience and technical skills inside the CV HTML file._
