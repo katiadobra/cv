@@ -28,4 +28,4 @@ Also, GitHub is free and I'm not paying for a domain name just to host a résum�
 P.S. If you're wondering why I deleted Gulp and Bootstrap from my CV — it's because I love myself.
 
 
-_Please find my detailed experience and technical skills inside the CV HTML file._
+_Please find my detailed experience and technical skills [inside the CV HTML file](https://katiadobra.github.io/cv/)._
