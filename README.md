@@ -14,9 +14,9 @@ Also, GitHub is free and I'm not paying for a domain name just to host a résum�
 
 ## What's Inside?
 
-- Actual experience (no fluff about \"working in amazing teams\")
-- Actual technologies (no desperate namedropping of Bootstrap)
-- Actual sarcasm (this README is basically a skills test — if you get it, congratulations)
+- Actual experience
+- Actual technologies
+- Actual sarcasm (this README is basically a skills test)
 
 ## How to Use?
 
