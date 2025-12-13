@@ -10,8 +10,6 @@ It’s short, clean, and mercilessly stripped of every unnecessary detail, just 
 Because recruiters still like to see \"communication skills\" and \"attention to detail,\"  
 and nothing says \"hire me\" like an obsessively polished static page.
 
-Also, GitHub is free and I'm not paying for a domain name just to host a résumé. Let's be realistic.
-
 ## What's Inside?
 
 - Actual experience
