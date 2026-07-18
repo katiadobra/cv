@@ -20,7 +20,6 @@ and nothing says \"hire me\" like an obsessively polished static page.
 
 - Open the HTML file.  
 - Pretend to read it carefully.  
-- Realize I’m the frontend engineer you’ve been looking for.
 - Email me to give me money.
 
 ---
