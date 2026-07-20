@@ -1,4 +1,4 @@
-# Kateryna Rybalko — Frontend Developer, Occasional Adult
+# Frontend Developer, Occasional Adult
 
 Welcome to the glorious public shrine of my professional existence.
 
